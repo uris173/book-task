@@ -10,6 +10,7 @@ ACCESS_SECRET = YOUR ACCESS SECRET
 REFRESH_SECRET = YOUR REFRESH SECRET
 MONGODB_URI = mongodb://127.0.0.1:27017/DA_NAME
 SERVER_URI = http://localhost:3000
+```
 
 `Признание: ИИ Использовался ИИ для создания @swagger документации`
 
