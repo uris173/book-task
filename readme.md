@@ -20,4 +20,5 @@ SERVER_URI = http://localhost:3000
 ## 2 действие
 `npm run dev`
 
+## Swagger документация по url ниже
 `http://localhost:3000/api-docs/v1`
