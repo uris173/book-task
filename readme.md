@@ -14,10 +14,10 @@ SERVER_URI = http://localhost:3000
 
 `Признание: ИИ Использовался ИИ для создания @swagger документации`
 
-# 1
+## 1
 `npm i`
 
-# 2
+## 2
 `npm run dev`
 
 `http://localhost:3000/api-docs/v1`
